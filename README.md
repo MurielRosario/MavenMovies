@@ -11,3 +11,5 @@ I'll have access to the entire Maven Movies SQL database. With little informatio
 
 The objective: 
 Use MySQL to explore and analyze the 19 tables within the "mavenmovies" database. 
+
+This project is part of the MySQL Specialist path of Maven Analytics.
