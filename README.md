@@ -1,5 +1,4 @@
 # MavenMovies
-For this project, I used a fictitious company and database.
 
 INTRODUCTION:
 I'm the partner and new co-owner of Maven Movies, a DVD rental business. My primary role is being in charge of the day-to-day operations.
@@ -16,5 +15,3 @@ SKILLS:
 - Data Analysis
 - Relationship Diagrams
 - Multi-Table Querying (JOINS)
-
-This project is part of the MySQL Specialist path of Maven Analytics.
