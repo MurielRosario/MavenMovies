@@ -15,6 +15,9 @@ I'll have access to the entire Maven Movies SQL database. With little informatio
 Use MySQL to explore and analyze the 19 tables within the "mavenmovies" database. 
 
 • SKILLS:
-- Data Analysis
-- Relationship Diagrams
-- Multi-Table Querying (JOINS)
+~ Data Analysis
+~ Relationship Diagrams
+~ Multi-Table Querying (JOINS)
+~ Aggregate Functions
+~ CASE statement
+~ SELECT statement
